@@ -45,7 +45,7 @@ This repository contains MATLAB simulations and analysis scripts for modeling el
 - The simulations assume a circular petri dish of 90 mm diameter with electrode pads placed symmetrically.
 - The analysis in `Simulation2.mlx` compares simulated and experimental voltage values quantitatively.
 - `Simulation3.mlx` demonstrates the concept of beat stimulation, useful in neuromodulation strategies.
-- The experimental data source is linked [here](https://docs.google.com/spreadsheets/d/1YDlMPtYdSVsHdrFVt8_7MTUF_CIstmmzhMWmsxN5lXA/edit?usp=sharing).
+- The experimental data source is linked [here](https://drive.google.com/drive/folders/1uvZTL5ul1ysD95uA0EvGy07uGqH_Za9J?usp=sharing).
 
 ## 📷 Example Outputs
 
